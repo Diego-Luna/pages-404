@@ -20,7 +20,7 @@
 
 .App-header {
   background-color: #18192E;
-  background-image: url(./static/img/estrellas.png);
+  background-image: url(./static/estrellas.png);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -66,7 +66,7 @@
 }
 
 .App-img-astronauta {
-  background-image: url(./static/img/astronauta.png);
+  background-image: url(./static/astronauta.png);
   background-size: 10vmin 10vmin;
   background-repeat: no-repeat;
   background-position: 125% 0;
@@ -85,7 +85,7 @@
 
   animation-name: astronauta-animation;
   animation-duration: 7.5s;
-  background-image: url(./static/img/astronauta.png);
+  background-image: url(./static/astronauta.png);
 }
 
 .App-img-satelite{
