@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.afb28244.chunk.css",
-    "main.js": "/static/js/main.a193e5cf.chunk.js",
-    "main.js.map": "/static/js/main.a193e5cf.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.229600b2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.229600b2.js.map",
-    "static/js/2.49ca821b.chunk.js": "/static/js/2.49ca821b.chunk.js",
-    "static/js/2.49ca821b.chunk.js.map": "/static/js/2.49ca821b.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7507a968cef8820345266a67564dd1ed.js": "/precache-manifest.7507a968cef8820345266a67564dd1ed.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.afb28244.chunk.css.map": "/static/css/main.afb28244.chunk.css.map",
-    "static/js/2.49ca821b.chunk.js.LICENSE.txt": "/static/js/2.49ca821b.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/astronauta.24c4d7a9.png",
+    "main.css": "./static/css/main.1c3254ff.chunk.css",
+    "main.js": "./static/js/main.1afc9a78.chunk.js",
+    "main.js.map": "./static/js/main.1afc9a78.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.70459cf1.js",
+    "runtime-main.js.map": "./static/js/runtime-main.70459cf1.js.map",
+    "static/js/2.49ca821b.chunk.js": "./static/js/2.49ca821b.chunk.js",
+    "static/js/2.49ca821b.chunk.js.map": "./static/js/2.49ca821b.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.e453a388843cee6f76c593ee4fdd9ce2.js": "./precache-manifest.e453a388843cee6f76c593ee4fdd9ce2.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.1c3254ff.chunk.css.map": "./static/css/main.1c3254ff.chunk.css.map",
+    "static/js/2.49ca821b.chunk.js.LICENSE.txt": "./static/js/2.49ca821b.chunk.js.LICENSE.txt",
+    "static/media/App.css": "./static/media/astronauta.24c4d7a9.png",
     "static/media/luna.png": "./static/media/luna.0769ef96.png",
-    "static/media/satelite.png": "/static/media/satelite.bae5c172.png"
+    "static/media/satelite.png": "./static/media/satelite.bae5c172.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.229600b2.js",
+    "static/js/runtime-main.70459cf1.js",
     "static/js/2.49ca821b.chunk.js",
-    "static/css/main.afb28244.chunk.css",
-    "static/js/main.a193e5cf.chunk.js"
+    "static/css/main.1c3254ff.chunk.css",
+    "static/js/main.1afc9a78.chunk.js"
   ]
 }
