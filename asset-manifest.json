@@ -13,7 +13,7 @@
     "static/css/main.afb28244.chunk.css.map": "/static/css/main.afb28244.chunk.css.map",
     "static/js/2.49ca821b.chunk.js.LICENSE.txt": "/static/js/2.49ca821b.chunk.js.LICENSE.txt",
     "static/media/App.css": "/static/media/astronauta.24c4d7a9.png",
-    "static/media/luna.png": "/static/media/luna.0769ef96.png",
+    "static/media/luna.png": "./static/media/luna.0769ef96.png",
     "static/media/satelite.png": "/static/media/satelite.bae5c172.png"
   },
   "entrypoints": [
